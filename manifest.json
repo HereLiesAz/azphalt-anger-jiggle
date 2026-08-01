@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Rocks each word back and forth, but only where the speech turns negative — the angrier the line, the harder it shakes.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
